@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahtesham Akram</h1>
+<h1 align="center">Hi <img width=31 height=31 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Ahtesham Akram</h1>
 <h3 align="center">I am a Passionate Full Stack Software Engineer specializing in Web Development</h3> <br>
 
 # 🙋‍♂️ About Me:
