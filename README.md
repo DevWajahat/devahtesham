@@ -14,8 +14,10 @@
 # 💻 Experience:
 <ul>
   <li>Associate Software Engineer <a href="https://www.linkedin.com/company/gaditek/mycompany/">@Gaditek</a> | <a href="https://www.linkedin.com/company/squat-wolf/mycompany/">@Squatwolf</a> </li>
+  <li>Lead JavaScript Instructor <a href="https://www.linkedin.com/company/tech-zone-education/?originalSubdomain=pk">@Techzone Learning</a> </li>
   <li>Frontend Engineer <a href="https://www.linkedin.com/company/tekunity-pvt-ltd/">@TekUnity Pvt Ltd</a> </li>
-  <li>Lead JavaScript Instructor <a href="https://www.linkedin.com/company/tech-zone-education/?originalSubdomain=pk">@Techzone SFC</a> </li>
+  <li>Web Developer <a href="https://www.linkedin.com/company/computer-collegiate/">@Computer Collegiate</a> </li>
+  
 </ul>
 
 <br>
