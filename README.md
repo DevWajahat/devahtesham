@@ -9,7 +9,7 @@
 </ul>
 
 # 🧑‍💻 Personal Portfolio:
-<h2><a href="https://thedevahtesham.pages.dev/" target="_blank">https://thedevahtesham.pages.dev</a></h2>
+<a href="https://thedevahtesham.pages.dev/" target="_blank"><h2>https://thedevahtesham.pages.dev</h2></a>
 
 
 
